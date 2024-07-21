@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #f8b400;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+#products {
+    padding: 2em;
+    text-align: center;
+}
+.product {
+    margin: 1em;
+}
+.product img {
+    max-width: 100%;
+}
